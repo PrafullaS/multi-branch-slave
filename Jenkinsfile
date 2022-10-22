@@ -3,7 +3,7 @@ pipeline
 
 	agent 
 		{
-			label('JS-1')
+			label('built-in')
 		}
 				
 			stages
